@@ -1,8 +1,9 @@
 ##Tutorials
 Angular-Rails http://angular-rails.com/bootstrap.html
 
-##Tools
+##Tools/Resources
 HTML to PDF http://pdfcrowd.com/
+Startup Stash http://startupstash.com/
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
