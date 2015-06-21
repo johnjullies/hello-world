@@ -12,3 +12,8 @@ Span-level HTML tags — e.g. `<span>, <cite>, or <del>` — can be used anywher
 
 Unlike block-level HTML tags, Markdown syntax is processed within span-level tags.
 
+Markdown allows you to use these characters (ampersand and less than sign) naturally, taking care of all the necessary escaping for you. If you use an ampersand as part of an HTML entity, it remains unchanged; otherwise it will be translated into &amp;.
+
+A paragraph is simply one or more consecutive lines of text, separated by one or more blank lines. (A blank line is any line that looks like a blank line — a line containing nothing but spaces or tabs is considered blank.) Normal paragraphs **should not** be indented with spaces or tabs.
+
+The rest is here https://daringfireball.net/projects/markdown/basics
