@@ -1,7 +1,4 @@
-# hello-world
-My first repo.
+# Hello
+*June 2015, 12:26am*
 
-I've decided to start learning Github and this is from the Github Guide hello world activity. 12:26am logged.
-
-# A change
-To test commit. This is exciting. 12:31 logged.
+My name is John Jullies. You can call me Jay. I've decided to learn git and Github. This is my first personal repo. I'm an aspiring web developer.
