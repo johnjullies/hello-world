@@ -1,6 +1,7 @@
 ##Tutorials/Articles
 Angular-Rails http://angular-rails.com/bootstrap.html  
-20 sites then and now (2014) http://www.cssdesignawards.com/articles/20-big-brand-site-redesigns-then-now/112/
+20 sites then and now (2014) http://www.cssdesignawards.com/articles/20-big-brand-site-redesigns-then-now/112/  
+Getting started to Sport Programming https://docs.google.com/document/d/10pw2WJDECopU3JgvZ6DEFQ8flBgNGw9f7SWmR2gYP_w/edit#
 
 ##Tools/Resources
 HTML to PDF http://pdfcrowd.com/  
