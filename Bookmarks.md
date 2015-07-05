@@ -1,5 +1,6 @@
-##Tutorials
-Angular-Rails http://angular-rails.com/bootstrap.html
+##Tutorials/Articles
+Angular-Rails http://angular-rails.com/bootstrap.html  
+20 sites then and now (2014) http://www.cssdesignawards.com/articles/20-big-brand-site-redesigns-then-now/112/
 
 ##Tools/Resources
 HTML to PDF http://pdfcrowd.com/  
