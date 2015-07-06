@@ -10,7 +10,8 @@ JavaScript BigNumber http://jsfromhell.com/classes/bignumber
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
-How to freelance https://www.reddit.com/r/freelance/comments/2s3wha/want_to_start_to_work_on_freelance/cnm1txf
+How to freelance https://www.reddit.com/r/freelance/comments/2s3wha/want_to_start_to_work_on_freelance/cnm1txf  
+Web Technologies https://www.reddit.com/r/webdev/comments/2wuw3v/ive_just_discovered_bootstrapwhat_else_have_i/coueywo
 
 ##Good Vibes
 Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html
