@@ -2,12 +2,13 @@
 Angular-Rails http://angular-rails.com/bootstrap.html  
 20 sites then and now (2014) http://www.cssdesignawards.com/articles/20-big-brand-site-redesigns-then-now/112/  
 Getting started to Sport Programming https://docs.google.com/document/d/10pw2WJDECopU3JgvZ6DEFQ8flBgNGw9f7SWmR2gYP_w/edit#  
-HTML5 Game in an Afternoon https://leanpub.com/html5shootemupinanafternoon/read
+HTML5 Game in an Afternoon https://leanpub.com/html5shootemupinanafternoon/read  
+Websites to learn something new https://medium.com/@kristynazdot/the-37-best-websites-to-learn-something-new-895e2cb0cad4
 
 ##Tools/Resources
 HTML to PDF http://pdfcrowd.com/  
 Startup Stash http://startupstash.com/  
-JavaScript BigNumber http://jsfromhell.com/classes/bignumber
+JavaScript BigNumber http://jsfromhell.com/classes/bignumber  
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
