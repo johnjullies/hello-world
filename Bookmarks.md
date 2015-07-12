@@ -9,6 +9,7 @@ Websites to learn something new https://medium.com/@kristynazdot/the-37-best-web
 HTML to PDF http://pdfcrowd.com/  
 Startup Stash http://startupstash.com/  
 JavaScript BigNumber http://jsfromhell.com/classes/bignumber  
+Fish http://fishshell.com/?version=2.2
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
