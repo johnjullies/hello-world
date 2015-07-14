@@ -3,7 +3,8 @@ Angular-Rails http://angular-rails.com/bootstrap.html
 20 sites then and now (2014) http://www.cssdesignawards.com/articles/20-big-brand-site-redesigns-then-now/112/  
 Getting started to Sport Programming https://docs.google.com/document/d/10pw2WJDECopU3JgvZ6DEFQ8flBgNGw9f7SWmR2gYP_w/edit#  
 HTML5 Game in an Afternoon https://leanpub.com/html5shootemupinanafternoon/read  
-Websites to learn something new https://medium.com/@kristynazdot/the-37-best-websites-to-learn-something-new-895e2cb0cad4
+Websites to learn something new https://medium.com/@kristynazdot/the-37-best-websites-to-learn-something-new-895e2cb0cad4  
+Loop Invariants http://www.cs.uofs.edu/~mccloske/courses/cmps144/invariants_lec.html
 
 ##Tools/Resources
 HTML to PDF http://pdfcrowd.com/  
@@ -14,7 +15,8 @@ Fish http://fishshell.com/?version=2.2
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
 How to freelance https://www.reddit.com/r/freelance/comments/2s3wha/want_to_start_to_work_on_freelance/cnm1txf  
-Web Technologies https://www.reddit.com/r/webdev/comments/2wuw3v/ive_just_discovered_bootstrapwhat_else_have_i/coueywo
+Web Technologies https://www.reddit.com/r/webdev/comments/2wuw3v/ive_just_discovered_bootstrapwhat_else_have_i/coueywo  
+Don't Call Yourself Programmer http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/  
 
 ##Good Vibes
 Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html
