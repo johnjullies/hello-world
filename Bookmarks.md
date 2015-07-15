@@ -6,7 +6,8 @@ HTML5 Game in an Afternoon https://leanpub.com/html5shootemupinanafternoon/read
 Websites to learn something new https://medium.com/@kristynazdot/the-37-best-websites-to-learn-something-new-895e2cb0cad4  
 Loop Invariants http://www.cs.uofs.edu/~mccloske/courses/cmps144/invariants_lec.html  
 Learn to Code By Doing Pro Bono http://www.freecodecamp.com/  
-Jasmine for Javascript http://evanhahn.com/how-do-i-jasmine/
+Jasmine for Javascript http://evanhahn.com/how-do-i-jasmine/  
+CSS3 Mastery (Tuts+)[http://code.tutsplus.com/series/css3-mastery--net-18126]
 
 ##Tools/Resources
 HTML to PDF http://pdfcrowd.com/  
