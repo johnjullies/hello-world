@@ -5,7 +5,8 @@ Getting started to Sport Programming https://docs.google.com/document/d/10pw2WJD
 HTML5 Game in an Afternoon https://leanpub.com/html5shootemupinanafternoon/read  
 Websites to learn something new https://medium.com/@kristynazdot/the-37-best-websites-to-learn-something-new-895e2cb0cad4  
 Loop Invariants http://www.cs.uofs.edu/~mccloske/courses/cmps144/invariants_lec.html  
-Learn to Code By Doing Pro Bono http://www.freecodecamp.com/
+Learn to Code By Doing Pro Bono http://www.freecodecamp.com/  
+Jasmine for Javascript http://evanhahn.com/how-do-i-jasmine/
 
 ##Tools/Resources
 HTML to PDF http://pdfcrowd.com/  
