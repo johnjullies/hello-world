@@ -7,7 +7,7 @@ Websites to learn something new https://medium.com/@kristynazdot/the-37-best-web
 Loop Invariants http://www.cs.uofs.edu/~mccloske/courses/cmps144/invariants_lec.html  
 Learn to Code By Doing Pro Bono http://www.freecodecamp.com/  
 Jasmine for Javascript http://evanhahn.com/how-do-i-jasmine/  
-CSS3 Mastery (Tuts+)[http://code.tutsplus.com/series/css3-mastery--net-18126]
+CSS3 Mastery http://code.tutsplus.com/series/css3-mastery--net-18126
 
 ##Tools/Resources
 HTML to PDF http://pdfcrowd.com/  
