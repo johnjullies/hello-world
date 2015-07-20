@@ -24,7 +24,7 @@ What Have You Tried http://mattgemmell.com/what-have-you-tried/
 The Humble Programmer https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html
 
 ##Good Vibes
-Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html
+Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html  
 JSNES https://fir.sh/projects/jsnes/
 
 ##FAQs
