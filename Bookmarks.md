@@ -25,6 +25,7 @@ The Humble Programmer https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx
 
 ##Good Vibes
 Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html
+JSNES https://fir.sh/projects/jsnes/
 
 ##FAQs
 How to fix Chrome icon in docky http://kb.openstudioproject.com/content/fix-double-google-chrome-icon-docky-and-plank
