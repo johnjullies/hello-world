@@ -9,7 +9,8 @@ Learn to Code By Doing Pro Bono http://www.freecodecamp.com/
 Jasmine for Javascript http://evanhahn.com/how-do-i-jasmine/  
 CSS3 Mastery http://code.tutsplus.com/series/css3-mastery--net-18126  
 2 Million Dollar Story http://www.forbes.com/sites/ilyapozin/2014/08/14/this-entrepreneur-raised-2m-with-a-five-slide-presentation-about-nothing/  
-50 Meticulous Style Guides https://designschool.canva.com/blog/50-meticulous-style-guides-every-startup-see-launching/
+50 Meticulous Style Guides https://designschool.canva.com/blog/50-meticulous-style-guides-every-startup-see-launching/  
+Python if `__name__` https://stackoverflow.com/questions/419163/what-does-if-name-main-do
 
 ##Tools/Resources
 HTML to PDF http://pdfcrowd.com/  
