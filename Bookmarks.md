@@ -15,7 +15,8 @@ CSS3 Mastery http://code.tutsplus.com/series/css3-mastery--net-18126
 HTML to PDF http://pdfcrowd.com/  
 Startup Stash http://startupstash.com/  
 JavaScript BigNumber http://jsfromhell.com/classes/bignumber  
-Fish http://fishshell.com/?version=2.2
+Fish http://fishshell.com/?version=2.2  
+Brand Colors http://brandcolors.net/
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
