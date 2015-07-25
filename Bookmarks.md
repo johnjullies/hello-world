@@ -10,7 +10,8 @@ Jasmine for Javascript http://evanhahn.com/how-do-i-jasmine/
 CSS3 Mastery http://code.tutsplus.com/series/css3-mastery--net-18126  
 2 Million Dollar Story http://www.forbes.com/sites/ilyapozin/2014/08/14/this-entrepreneur-raised-2m-with-a-five-slide-presentation-about-nothing/  
 50 Meticulous Style Guides https://designschool.canva.com/blog/50-meticulous-style-guides-every-startup-see-launching/  
-Python if `__name__` https://stackoverflow.com/questions/419163/what-does-if-name-main-do
+Python if `__name__` https://stackoverflow.com/questions/419163/what-does-if-name-main-do  
+Start-up Curations https://www.facebook.com/WhatsNext.Asia/photos/a.417865555053001.1073741828.414495275390029/424157904423766/?type=1&permPage=1
 
 ##Tools/Resources
 HTML to PDF http://pdfcrowd.com/  
@@ -18,7 +19,8 @@ Startup Stash http://startupstash.com/
 JavaScript BigNumber http://jsfromhell.com/classes/bignumber  
 Fish http://fishshell.com/?version=2.2  
 Brand Colors http://brandcolors.net/  
-Custom maps https://www.mapbox.com/design/
+Custom maps https://www.mapbox.com/design/  
+Design Trends 2015 http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
