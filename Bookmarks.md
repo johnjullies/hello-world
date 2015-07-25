@@ -17,7 +17,8 @@ HTML to PDF http://pdfcrowd.com/
 Startup Stash http://startupstash.com/  
 JavaScript BigNumber http://jsfromhell.com/classes/bignumber  
 Fish http://fishshell.com/?version=2.2  
-Brand Colors http://brandcolors.net/
+Brand Colors http://brandcolors.net/  
+Custom maps https://www.mapbox.com/design/
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
