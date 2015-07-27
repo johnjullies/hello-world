@@ -31,7 +31,8 @@ How to freelance https://www.reddit.com/r/freelance/comments/2s3wha/want_to_star
 Web Technologies https://www.reddit.com/r/webdev/comments/2wuw3v/ive_just_discovered_bootstrapwhat_else_have_i/coueywo  
 Don't Call Yourself Programmer http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/  
 What Have You Tried http://mattgemmell.com/what-have-you-tried/  
-The Humble Programmer https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html
+The Humble Programmer https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html  
+Dealing with difficult people http://katemats.com/difficult-people-peers/
 
 ##Good Vibes
 Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html  
