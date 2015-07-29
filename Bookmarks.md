@@ -33,7 +33,8 @@ Web Technologies https://www.reddit.com/r/webdev/comments/2wuw3v/ive_just_discov
 Don't Call Yourself Programmer http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/  
 What Have You Tried http://mattgemmell.com/what-have-you-tried/  
 The Humble Programmer https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html  
-Dealing with difficult people http://katemats.com/difficult-people-peers/
+Dealing with difficult people http://katemats.com/difficult-people-peers/  
+Why Work Hard http://seanwes.com/podcast/188-why-i-work-hard
 
 ##Good Vibes
 Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html  
