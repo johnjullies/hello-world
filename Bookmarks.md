@@ -13,7 +13,8 @@ CSS3 Mastery http://code.tutsplus.com/series/css3-mastery--net-18126
 Python if `__name__` https://stackoverflow.com/questions/419163/what-does-if-name-main-do  
 Start-up Curations https://www.facebook.com/WhatsNext.Asia/photos/a.417865555053001.1073741828.414495275390029/424157904423766/?type=1&permPage=1  
 Git Inside Out https://codewords.recurse.com/issues/two/git-from-the-inside-out  
-Redesigning Google Chrome https://medium.com/google-design/redesigning-chrome-android-11eab15dc7ee
+Redesigning Google Chrome https://medium.com/google-design/redesigning-chrome-android-11eab15dc7ee  
+JS Object Oriented Component Encapsulation https://mikewest.org/2005/03/component-encapsulation-using-object-oriented-javascript
 
 ##Tools/Resources
 HTML to PDF http://pdfcrowd.com/  
