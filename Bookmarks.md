@@ -37,7 +37,8 @@ Don't Call Yourself Programmer http://www.kalzumeus.com/2011/10/28/dont-call-you
 What Have You Tried http://mattgemmell.com/what-have-you-tried/  
 The Humble Programmer https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html  
 Dealing with difficult people http://katemats.com/difficult-people-peers/  
-Why Work Hard http://seanwes.com/podcast/188-why-i-work-hard
+Why Work Hard http://seanwes.com/podcast/188-why-i-work-hard  
+Say No To Alternatives if you want to Follow Your Dreams http://oliveremberton.com/2014/if-you-want-to-follow-your-dreams-you-have-to-say-no-to-all-the-alternatives/
 
 ##Good Vibes
 Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html  
