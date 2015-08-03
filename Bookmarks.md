@@ -28,7 +28,8 @@ Design Trends 2015 http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-ov
 Functional Programming in Python https://news.ycombinator.com/item?id=9941748  
 Box Open Source http://opensource.box.com/  
 Polymer https://www.polymer-project.org/1.0/  
-Front-End Dev Skills http://learntocodewith.me/web-dev/front-end-developer-skills/
+Front-End Dev Skills http://learntocodewith.me/web-dev/front-end-developer-skills/  
+Electron framework http://electron.atom.io/
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
