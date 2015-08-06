@@ -16,7 +16,9 @@ Git Inside Out https://codewords.recurse.com/issues/two/git-from-the-inside-out
 Redesigning Google Chrome https://medium.com/google-design/redesigning-chrome-android-11eab15dc7ee  
 JS Object Oriented Component Encapsulation https://mikewest.org/2005/03/component-encapsulation-using-object-oriented-javascript  
 The Ultimate Guide to Becoming an Entrepreneur https://silktide.com/the-ultimate-guide-to-becoming-an-entrepreneur/  
-Shadow DOM http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/
+Shadow DOM http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/  
+Next Logical Permutation http://www.nayuki.io/page/next-lexicographical-permutation-algorithm  
+JS Higher Order Functions https://www.airpair.com/javascript/posts/catching-up-with-javascript-higher-order-functions
 
 ##Tools/Resources
 HTML to PDF http://pdfcrowd.com/  
