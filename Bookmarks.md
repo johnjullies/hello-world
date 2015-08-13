@@ -19,6 +19,7 @@ The Ultimate Guide to Becoming an Entrepreneur https://silktide.com/the-ultimate
 Shadow DOM http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/  
 Next Logical Permutation http://www.nayuki.io/page/next-lexicographical-permutation-algorithm  
 JS Higher Order Functions https://www.airpair.com/javascript/posts/catching-up-with-javascript-higher-order-functions
+What is JSON http://www.copterlabs.com/blog/json-what-it-is-how-it-works-how-to-use-it/
 
 ##Tools/Resources
 HTML to PDF http://pdfcrowd.com/  
