@@ -49,7 +49,8 @@ Why Work Hard http://seanwes.com/podcast/188-why-i-work-hard
 Say No To Alternatives if you want to Follow Your Dreams http://oliveremberton.com/2014/if-you-want-to-follow-your-dreams-you-have-to-say-no-to-all-the-alternatives/  
 Naming Conventions http://www.joelonsoftware.com/articles/Wrong.html  
 Magic Story http://catb.org/esr/jargon/html/magic-story.html  
-Primer explained http://qntm.org/primer
+Primer explained http://qntm.org/primer  
+Master Adjacent Disciplines http://www.theeffectiveengineer.com/blog/master-adjacent-disciplines
 
 ##Good Vibes
 Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html  
