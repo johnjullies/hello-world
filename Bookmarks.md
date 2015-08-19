@@ -35,7 +35,8 @@ Polymer https://www.polymer-project.org/1.0/
 Front-End Dev Skills http://learntocodewith.me/web-dev/front-end-developer-skills/  
 Electron framework http://electron.atom.io/  
 Calendar https://mondayapp.com/
-Learn Python http://www.learnpython.org/
+Learn Python http://www.learnpython.org/  
+Isotope http://isotope.metafizzy.co/
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
