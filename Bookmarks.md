@@ -52,7 +52,8 @@ Say No To Alternatives if you want to Follow Your Dreams http://oliveremberton.c
 Naming Conventions http://www.joelonsoftware.com/articles/Wrong.html  
 Magic Story http://catb.org/esr/jargon/html/magic-story.html  
 Primer explained http://qntm.org/primer  
-Master Adjacent Disciplines http://www.theeffectiveengineer.com/blog/master-adjacent-disciplines
+Master Adjacent Disciplines http://www.theeffectiveengineer.com/blog/master-adjacent-disciplines  
+Coderetreat http://agilecoach.ph/coderetreat/software-craftsmanship/manila/2015/07/30/code-retreat-in-manila.html
 
 ##Good Vibes
 Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html  
