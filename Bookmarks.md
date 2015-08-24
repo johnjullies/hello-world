@@ -21,7 +21,8 @@ Next Logical Permutation http://www.nayuki.io/page/next-lexicographical-permutat
 JS Higher Order Functions https://www.airpair.com/javascript/posts/catching-up-with-javascript-higher-order-functions
 What is JSON http://www.copterlabs.com/blog/json-what-it-is-how-it-works-how-to-use-it/  
 Jade Templating http://webapplog.com/jade/  
-CSS Modules http://glenmaddern.com/articles/css-modules
+CSS Modules http://glenmaddern.com/articles/css-modules  
+Choosing JS Library https://www.lullabot.com/articles/choosing-the-right-javascript-framework-for-the-job
 
 ##Tools/Resources
 HTML to PDF http://pdfcrowd.com/  
