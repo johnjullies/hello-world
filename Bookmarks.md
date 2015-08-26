@@ -22,7 +22,8 @@ JS Higher Order Functions https://www.airpair.com/javascript/posts/catching-up-w
 What is JSON http://www.copterlabs.com/blog/json-what-it-is-how-it-works-how-to-use-it/  
 Jade Templating http://webapplog.com/jade/  
 CSS Modules http://glenmaddern.com/articles/css-modules  
-Choosing JS Library https://www.lullabot.com/articles/choosing-the-right-javascript-framework-for-the-job
+Choosing JS Library https://www.lullabot.com/articles/choosing-the-right-javascript-framework-for-the-job  
+Atomic Web Design http://bradfrost.com/blog/post/atomic-web-design/  
 
 ##Tools/Resources
 HTML to PDF http://pdfcrowd.com/  
