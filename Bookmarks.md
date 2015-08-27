@@ -40,7 +40,8 @@ Front-End Dev Skills http://learntocodewith.me/web-dev/front-end-developer-skill
 Electron framework http://electron.atom.io/  
 Calendar https://mondayapp.com/
 Learn Python http://www.learnpython.org/  
-Isotope http://isotope.metafizzy.co/
+Isotope http://isotope.metafizzy.co/  
+Anime Avatar Maker http://avachara.com/avatar/
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
@@ -56,7 +57,8 @@ Naming Conventions http://www.joelonsoftware.com/articles/Wrong.html
 Magic Story http://catb.org/esr/jargon/html/magic-story.html  
 Primer explained http://qntm.org/primer  
 Master Adjacent Disciplines http://www.theeffectiveengineer.com/blog/master-adjacent-disciplines  
-Coderetreat http://agilecoach.ph/coderetreat/software-craftsmanship/manila/2015/07/30/code-retreat-in-manila.html
+Coderetreat http://agilecoach.ph/coderetreat/software-craftsmanship/manila/2015/07/30/code-retreat-in-manila.html  
+A Lesson on Perspective http://www.lindsredding.com/2012/03/11/a-overdue-lesson-in-perspective/
 
 ##Good Vibes
 Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html  
