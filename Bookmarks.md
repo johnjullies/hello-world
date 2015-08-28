@@ -58,7 +58,8 @@ Magic Story http://catb.org/esr/jargon/html/magic-story.html
 Primer explained http://qntm.org/primer  
 Master Adjacent Disciplines http://www.theeffectiveengineer.com/blog/master-adjacent-disciplines  
 Coderetreat http://agilecoach.ph/coderetreat/software-craftsmanship/manila/2015/07/30/code-retreat-in-manila.html  
-A Lesson on Perspective http://www.lindsredding.com/2012/03/11/a-overdue-lesson-in-perspective/
+A Lesson on Perspective http://www.lindsredding.com/2012/03/11/a-overdue-lesson-in-perspective/  
+Productivity Hacks https://blog.bidsketch.com/everything-else/work-smarter/
 
 ##Good Vibes
 Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html  
