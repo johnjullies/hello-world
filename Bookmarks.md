@@ -41,7 +41,8 @@ Electron framework http://electron.atom.io/
 Calendar https://mondayapp.com/
 Learn Python http://www.learnpython.org/  
 Isotope http://isotope.metafizzy.co/  
-Anime Avatar Maker http://avachara.com/avatar/
+Anime Avatar Maker http://avachara.com/avatar/  
+Symbol Guide http://www.symbol.guide/
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
