@@ -60,7 +60,9 @@ Primer explained http://qntm.org/primer
 Master Adjacent Disciplines http://www.theeffectiveengineer.com/blog/master-adjacent-disciplines  
 Coderetreat http://agilecoach.ph/coderetreat/software-craftsmanship/manila/2015/07/30/code-retreat-in-manila.html  
 A Lesson on Perspective http://www.lindsredding.com/2012/03/11/a-overdue-lesson-in-perspective/  
-Productivity Hacks https://blog.bidsketch.com/everything-else/work-smarter/
+Productivity Hacks https://blog.bidsketch.com/everything-else/work-smarter/  
+Apps to help find work http://netted.net/5-apps-to-help-you-land-your-dream-job/
+Pitching https://medium.com/@Cryptonight/the-inside-out-of-pitching-6d8c5d5a37ca
 
 ##Good Vibes
 Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html  
