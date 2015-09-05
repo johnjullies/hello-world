@@ -42,7 +42,8 @@ Calendar https://mondayapp.com/
 Learn Python http://www.learnpython.org/  
 Isotope http://isotope.metafizzy.co/  
 Anime Avatar Maker http://avachara.com/avatar/  
-Symbol Guide http://www.symbol.guide/
+Symbol Guide http://www.symbol.guide/  
+Instant chords for any song http://chordify.net/
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
