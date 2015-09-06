@@ -68,6 +68,7 @@ Pitching https://medium.com/@Cryptonight/the-inside-out-of-pitching-6d8c5d5a37ca
 ##Good Vibes
 Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html  
 JSNES https://fir.sh/projects/jsnes/  
+Startup quotes http://startupquote.com/
 
 ##FAQs
 How to fix Chrome icon in docky http://kb.openstudioproject.com/content/fix-double-google-chrome-icon-docky-and-plank
