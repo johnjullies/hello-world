@@ -38,7 +38,7 @@ Box Open Source http://opensource.box.com/
 Polymer https://www.polymer-project.org/1.0/  
 Front-End Dev Skills http://learntocodewith.me/web-dev/front-end-developer-skills/  
 Electron framework http://electron.atom.io/  
-Calendar https://mondayapp.com/
+Calendar https://mondayapp.com/  
 Learn Python http://www.learnpython.org/  
 Isotope http://isotope.metafizzy.co/  
 Anime Avatar Maker http://avachara.com/avatar/  
@@ -47,6 +47,7 @@ Instant chords for any song http://chordify.net/
 Create easy infographics http://piktochart.com/  
 Find Slacks to join http://www.chitchats.co/  
 Javascript App Platform https://www.meteor.com/
+Tips for public speaking http://speaking.io/
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
