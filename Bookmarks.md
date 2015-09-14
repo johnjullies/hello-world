@@ -46,8 +46,9 @@ Symbol Guide http://www.symbol.guide/
 Instant chords for any song http://chordify.net/  
 Create easy infographics http://piktochart.com/  
 Find Slacks to join http://www.chitchats.co/  
-Javascript App Platform https://www.meteor.com/
-Tips for public speaking http://speaking.io/
+Javascript App Platform https://www.meteor.com/  
+Tips for public speaking http://speaking.io/  
+CSS Tools http://www.cssmatic.com/
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
