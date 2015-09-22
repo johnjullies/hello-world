@@ -51,7 +51,9 @@ Tips for public speaking http://speaking.io/
 CSS Tools http://www.cssmatic.com/  
 A free library of HTML, CSS, JS nuggets http://codyhouse.co/  
 Free prototyping http://www.invisionapp.com/  
-HTML Game framwork http://phaser.io/
+HTML Game framwork http://phaser.io/  
+Currated sites about HTML5 https://html5sit.es/  
+HTML5 and CSS3 tutorials http://www.html5andcss3.org/
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
