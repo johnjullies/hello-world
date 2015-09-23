@@ -53,7 +53,8 @@ A free library of HTML, CSS, JS nuggets http://codyhouse.co/
 Free prototyping http://www.invisionapp.com/  
 HTML Game framwork http://phaser.io/  
 Currated sites about HTML5 https://html5sit.es/  
-HTML5 and CSS3 tutorials http://www.html5andcss3.org/
+HTML5 and CSS3 tutorials http://www.html5andcss3.org/  
+Stream torrents http://kunkka.marksteve.com/
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
@@ -78,7 +79,7 @@ Pitching https://medium.com/@Cryptonight/the-inside-out-of-pitching-6d8c5d5a37ca
 ##Good Vibes
 Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html  
 JSNES https://fir.sh/projects/jsnes/  
-Startup quotes http://startupquote.com/
+Startup quotes http://startupquote.com/  
 
 ##FAQs
 How to fix Chrome icon in docky http://kb.openstudioproject.com/content/fix-double-google-chrome-icon-docky-and-plank
