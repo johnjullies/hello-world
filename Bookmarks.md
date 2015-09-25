@@ -24,7 +24,8 @@ Jade Templating http://webapplog.com/jade/
 CSS Modules http://glenmaddern.com/articles/css-modules  
 Choosing JS Library https://www.lullabot.com/articles/choosing-the-right-javascript-framework-for-the-job  
 Atomic Web Design http://bradfrost.com/blog/post/atomic-web-design/  
-Rapid prototyping with JS http://rapidprototypingwithjs.com/#section-toc
+Rapid prototyping with JS http://rapidprototypingwithjs.com/#section-toc  
+Python in a single image http://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
 
 ##Tools/Resources
 HTML to PDF http://pdfcrowd.com/  
