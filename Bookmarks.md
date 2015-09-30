@@ -79,7 +79,9 @@ A Lesson on Perspective http://www.lindsredding.com/2012/03/11/a-overdue-lesson-
 Productivity Hacks https://blog.bidsketch.com/everything-else/work-smarter/  
 Apps to help find work http://netted.net/5-apps-to-help-you-land-your-dream-job/  
 Pitching https://medium.com/@Cryptonight/the-inside-out-of-pitching-6d8c5d5a37ca  
-Transitions from Engineers to Managers http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/
+Transitions from Engineers to Managers http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/  
+Code Galaxies https://anvaka.github.io/pm  
+Polyglot implementations of conditional hugging http://maybehug.me/index.html
 
 ##Good Vibes
 Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html  
