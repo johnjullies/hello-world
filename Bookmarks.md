@@ -81,7 +81,8 @@ Apps to help find work http://netted.net/5-apps-to-help-you-land-your-dream-job/
 Pitching https://medium.com/@Cryptonight/the-inside-out-of-pitching-6d8c5d5a37ca  
 Transitions from Engineers to Managers http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/  
 Code Galaxies https://anvaka.github.io/pm  
-Polyglot implementations of conditional hugging http://maybehug.me/index.html
+Polyglot implementations of conditional hugging http://maybehug.me/index.html  
+Style Guide Driven Dev http://blog.bitovi.com/style-guide-driven-development/
 
 ##Good Vibes
 Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html  
