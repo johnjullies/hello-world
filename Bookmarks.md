@@ -60,7 +60,8 @@ Currated sites about HTML5 https://html5sit.es/
 HTML5 and CSS3 tutorials http://www.html5andcss3.org/  
 Stream torrents http://kunkka.marksteve.com/  
 Javascript Design Patterns http://addyosmani.com/resources/essentialjsdesignpatterns/book/
-HTML5 and CSS3 website templates http://www.styleshout.com/
+HTML5 and CSS3 website templates http://www.styleshout.com/  
+Interactive JavaScript charts http://www.highcharts.com/
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
