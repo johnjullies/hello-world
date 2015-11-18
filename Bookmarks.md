@@ -63,7 +63,9 @@ Stream torrents http://kunkka.marksteve.com/
 Javascript Design Patterns http://addyosmani.com/resources/essentialjsdesignpatterns/book/  
 HTML5 and CSS3 website templates http://www.styleshout.com/  
 Interactive JavaScript charts http://www.highcharts.com/  
-Data-Driven Documents http://d3js.org/
+Data-Driven Documents http://d3js.org/  
+Supercharge your web & mobile engineering skills by building real projects https://thinkster.io/  
+Accelerate your career today with bite-sized web development video training https://egghead.io/
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
