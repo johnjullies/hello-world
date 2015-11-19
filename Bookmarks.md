@@ -90,7 +90,8 @@ Transitions from Engineers to Managers http://firstround.com/review/this-90-day-
 Code Galaxies https://anvaka.github.io/pm  
 Polyglot implementations of conditional hugging http://maybehug.me/index.html  
 Style Guide Driven Dev http://blog.bitovi.com/style-guide-driven-development/
-Gadgets and gears http://thewirecutter.com/
+Gadgets and gears http://thewirecutter.com/  
+Are you a professional #freelancer looking for better #jobs? https://gun.io/r/e98d9972bfc3d7277cd84de1ae5ac5fa500c355e/ … #web #developer
 
 ##Good Vibes
 Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html  
