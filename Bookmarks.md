@@ -28,7 +28,8 @@ Atomic Web Design http://bradfrost.com/blog/post/atomic-web-design/
 Rapid prototyping with JS http://rapidprototypingwithjs.com/#section-toc  
 Python in a single image http://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/  
 Installing LAMP on Ubuntu 14 https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-14-04  
-Getting started with Ember https://medium.com/@jamesfuthey/a-gentle-introduction-to-ember-2-0-8ef1f378ee4
+Getting started with Ember https://medium.com/@jamesfuthey/a-gentle-introduction-to-ember-2-0-8ef1f378ee4  
+7 Beautiful Blog layouts https://webflow.com/blog/7-beautiful-blog-layouts
 
 ##Tools/Resources
 HTML to PDF http://pdfcrowd.com/  
