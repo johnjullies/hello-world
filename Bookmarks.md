@@ -66,7 +66,8 @@ HTML5 and CSS3 website templates http://www.styleshout.com/
 Interactive JavaScript charts http://www.highcharts.com/  
 Data-Driven Documents http://d3js.org/  
 Supercharge your web & mobile engineering skills by building real projects https://thinkster.io/  
-Accelerate your career today with bite-sized web development video training https://egghead.io/
+Accelerate your career today with bite-sized web development video training https://egghead.io/  
+your first offline web app https://developers.google.com/web/fundamentals/getting-started/your-first-offline-web-app/
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
