@@ -68,7 +68,10 @@ Interactive JavaScript charts http://www.highcharts.com/
 Data-Driven Documents http://d3js.org/  
 Supercharge your web & mobile engineering skills by building real projects https://thinkster.io/  
 Accelerate your career today with bite-sized web development video training https://egghead.io/  
-your first offline web app https://developers.google.com/web/fundamentals/getting-started/your-first-offline-web-app/
+your first offline web app https://developers.google.com/web/fundamentals/getting-started/your-first-offline-web-app/  
+Static web publishing for Front-End Developers http://surge.sh/  
+Builds, deploys & hosts your static site or app https://www.netlify.com/  
+Simple viewer for code examples http://bl.ocks.org/
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
@@ -94,7 +97,8 @@ Code Galaxies https://anvaka.github.io/pm
 Polyglot implementations of conditional hugging http://maybehug.me/index.html  
 Style Guide Driven Dev http://blog.bitovi.com/style-guide-driven-development/
 Gadgets and gears http://thewirecutter.com/  
-Are you a professional #freelancer looking for better #jobs? https://gun.io/r/e98d9972bfc3d7277cd84de1ae5ac5fa500c355e/ … #web #developer
+Are you a professional #freelancer looking for better #jobs? https://gun.io/r/e98d9972bfc3d7277cd84de1ae5ac5fa500c355e/ … #web #developer  
+Stallman, On Hacking https://stallman.org/articles/on-hacking.html
 
 ##Good Vibes
 Stress Busters http://www.mouserunner.com/MR_StressBustersCell.html  
