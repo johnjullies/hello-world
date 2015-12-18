@@ -71,7 +71,8 @@ Accelerate your career today with bite-sized web development video training http
 your first offline web app https://developers.google.com/web/fundamentals/getting-started/your-first-offline-web-app/  
 Static web publishing for Front-End Developers http://surge.sh/  
 Builds, deploys & hosts your static site or app https://www.netlify.com/  
-Simple viewer for code examples http://bl.ocks.org/
+Simple viewer for code examples http://bl.ocks.org/  
+Easily download and install programs https://ninite.com/
 
 ##Nerd Life
 What is Code http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/  
