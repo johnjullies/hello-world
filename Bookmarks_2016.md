@@ -6,4 +6,5 @@ Animation Tool https://spiritjs.io/
 Open source JS packages https://js.coach/  
 JS The Right Way http://jstherightway.org/  
 Text Faces https://textfac.es/  
-React Tutorial http://courses.reactjsprogram.com/courses/reactjsfundamentals
+React Tutorial http://courses.reactjsprogram.com/courses/reactjsfundamentals  
+Learn to hack. Learn to protect yourself. https://www.hacksplaining.com/
