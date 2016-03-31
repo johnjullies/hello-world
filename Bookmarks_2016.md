@@ -13,3 +13,4 @@ Introduction to Web Scraping using Scrapy and Postgres http://newcoder.io/scrape
 A modern CSS framework based on Flexbox http://bulma.io/  
 Web Design 101 http://ebooks.webflow.com/ebook/web-design-101  
 A Lightweight Sass Tool Set http://bourbon.io/  
+GitBook · Writing made easy https://www.gitbook.com/  
