@@ -20,3 +20,4 @@ Adobe Color CC https://color.adobe.com/create/color-wheel/
 Color Ideas & Inspiration http://www.colourlovers.com/  
 Ready-to-use design assets https://creativemarket.com/  
 The Psychology of Pricing http://www.nickkolenda.com/psychological-pricing-strategies/  
+Landing pages inspiration http://land-book.com/  
