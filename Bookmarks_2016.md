@@ -21,3 +21,4 @@ Color Ideas & Inspiration http://www.colourlovers.com/
 Ready-to-use design assets https://creativemarket.com/  
 The Psychology of Pricing http://www.nickkolenda.com/psychological-pricing-strategies/  
 Landing pages inspiration http://land-book.com/  
+Fix Ubuntu System Error on start-up http://www.binarytides.com/ubuntu-fix-system-program-problem-error/  
