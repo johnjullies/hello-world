@@ -22,3 +22,4 @@ Ready-to-use design assets https://creativemarket.com/
 The Psychology of Pricing http://www.nickkolenda.com/psychological-pricing-strategies/  
 Landing pages inspiration http://land-book.com/  
 Fix Ubuntu System Error on start-up http://www.binarytides.com/ubuntu-fix-system-program-problem-error/  
+8 Thing Successful People Have in Common http://www.bakadesuyo.com/2013/12/successful-people/  
