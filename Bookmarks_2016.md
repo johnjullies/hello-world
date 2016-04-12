@@ -24,4 +24,5 @@ Landing pages inspiration http://land-book.com/
 Fix Ubuntu System Error on start-up http://www.binarytides.com/ubuntu-fix-system-program-problem-error/  
 8 Thing Successful People Have in Common http://www.bakadesuyo.com/2013/12/successful-people/  
 The Road Not Taken comic http://zenpencils.com/comic/60-robert-frost-the-road-not-taken/  
-12 Lessons https://www.thekua.com/atwork/2016/04/12-years-12-lessons-working-at-thoughtworks/
+12 Lessons https://www.thekua.com/atwork/2016/04/12-years-12-lessons-working-at-thoughtworks/  
+The simplest API for web to SMS http://semaphore.co/
