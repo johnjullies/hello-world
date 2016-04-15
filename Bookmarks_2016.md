@@ -27,3 +27,4 @@ The Road Not Taken comic http://zenpencils.com/comic/60-robert-frost-the-road-no
 12 Lessons https://www.thekua.com/atwork/2016/04/12-years-12-lessons-working-at-thoughtworks/  
 The simplest API for web to SMS http://semaphore.co/  
 A multi-screen layout manager for webapps https://www.golden-layout.com/  
+Math lessons that actually explain concepts http://betterexplained.com/  
