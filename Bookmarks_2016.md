@@ -29,3 +29,4 @@ The simplest API for web to SMS http://semaphore.co/
 A multi-screen layout manager for webapps https://www.golden-layout.com/  
 Math lessons that actually explain concepts http://betterexplained.com/  
 Programming copilot https://kite.com/  
+The Psychology of Web Design http://thenextweb.com/dd/2015/09/30/the-psychology-behind-successful-web-design/  
