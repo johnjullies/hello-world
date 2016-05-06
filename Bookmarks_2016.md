@@ -32,3 +32,4 @@ Programming copilot https://kite.com/
 The Psychology of Web Design http://thenextweb.com/dd/2015/09/30/the-psychology-behind-successful-web-design/  
 Improve focus and boost your productivity http://www.noisli.com/  
 Git Branching Model http://nvie.com/posts/a-successful-git-branching-model/  
+Aha Moments When Learning Git http://betterexplained.com/articles/aha-moments-when-learning-git/  
