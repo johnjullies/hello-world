@@ -35,3 +35,5 @@ Git Branching Model http://nvie.com/posts/a-successful-git-branching-model/
 Aha Moments When Learning Git http://betterexplained.com/articles/aha-moments-when-learning-git/  
 Getting started with Bower http://blog.teamtreehouse.com/getting-started-bower  
 Critical Thinking in Everyday Life: 9 Strategies http://www.criticalthinking.org/pages/critical-thinking-in-everyday-life-9-strategies/512  
+Best of Material Design, daily http://www.materialup.com/  
+
