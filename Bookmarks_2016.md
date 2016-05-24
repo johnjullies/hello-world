@@ -38,3 +38,5 @@ Critical Thinking in Everyday Life: 9 Strategies http://www.criticalthinking.org
 Best of Material Design, daily http://www.materialup.com/  
 Django | Full Stack Python https://www.fullstackpython.com/django.html  
 A Guide to Visual Design http://www.visualmess.com/  
+Personal Growth Score http://fitness.reebok.com/international/be-more-human/#/home  
+Daily Design Inspiration http://abduzeedo.com/  
