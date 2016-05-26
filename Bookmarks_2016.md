@@ -41,3 +41,4 @@ A Guide to Visual Design http://www.visualmess.com/
 Personal Growth Score http://fitness.reebok.com/international/be-more-human/#/home  
 Daily Design Inspiration http://abduzeedo.com/  
 Flat UI Color Picker http://www.flatuicolorpicker.com/all  
+Practical Programming for Beginners https://automatetheboringstuff.com  
