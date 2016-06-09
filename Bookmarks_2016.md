@@ -43,3 +43,5 @@ Daily Design Inspiration http://abduzeedo.com/
 Flat UI Color Picker http://www.flatuicolorpicker.com/all  
 Practical Programming for Beginners https://automatetheboringstuff.com  
 10 tools to unlock your creativity http://www.creativebloq.com/creativity/10-new-tools-can-unlock-your-creativity-51620229  
+Free themes for Bootstrap http://bootswatch.com/  
+Design elements, playground and code snippets for Bootstrap http://bootsnipp.com/  
