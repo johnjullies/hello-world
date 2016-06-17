@@ -46,3 +46,5 @@ Practical Programming for Beginners https://automatetheboringstuff.com
 Free themes for Bootstrap http://bootswatch.com/  
 Design elements, playground and code snippets for Bootstrap http://bootsnipp.com/  
 The Vanilla Javascript Repository http://www.vanillalist.com/  
+Build Native mobile applications in JS https://www.nativescript.org/  
+
