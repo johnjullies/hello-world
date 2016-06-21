@@ -47,4 +47,5 @@ Free themes for Bootstrap http://bootswatch.com/
 Design elements, playground and code snippets for Bootstrap http://bootsnipp.com/  
 The Vanilla Javascript Repository http://www.vanillalist.com/  
 Build Native mobile applications in JS https://www.nativescript.org/  
+iOS Human Interface Guidelines https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556-CH66-SW1  
 
