@@ -51,4 +51,5 @@ iOS Human Interface Guidelines https://developer.apple.com/library/ios/documenta
 HTML and CSS issues guidelines http://wtfhtmlcss.com/  
 Terminal recording app https://asciinema.org/  
 CSS, HTML, and SASS tutorial with good explenation http://marksheet.io/  
+Random html element with their specs http://www.randomhtmltags.tech/  
 
