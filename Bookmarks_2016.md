@@ -52,4 +52,6 @@ HTML and CSS issues guidelines http://wtfhtmlcss.com/
 Terminal recording app https://asciinema.org/  
 CSS, HTML, and SASS tutorial with good explenation http://marksheet.io/  
 Random html element with their specs http://www.randomhtmltags.tech/  
-Good article on "Placeholder Layouts" https://kyusuf.com/post/fake-it-til-you-make-it-css
+Good article on "Placeholder Layouts" https://kyusuf.com/post/fake-it-til-you-make-it-css  
+Style Guide Boilerplate http://bjankord.github.io/Style-Guide-Boilerplate/  
+
