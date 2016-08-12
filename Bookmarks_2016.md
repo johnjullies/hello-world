@@ -55,4 +55,5 @@ Random html element with their specs http://www.randomhtmltags.tech/
 Good article on "Placeholder Layouts" https://kyusuf.com/post/fake-it-til-you-make-it-css  
 Style Guide Boilerplate http://bjankord.github.io/Style-Guide-Boilerplate/  
 CSS-tricks React tutorial https://css-tricks.com/learning-react-router/  
+Learn a new programming language fast https://learnxinyminutes.com/  
 
