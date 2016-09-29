@@ -61,4 +61,5 @@ How to build, design and test web security https://www.owasp.org/index.php/Main_
 Currated list of website builders http://saijogeorge.com/website-builders/  
 Currated list of Big-O complexities http://bigocheatsheet.com/  
 Design, prototyping, and collaboration https://marvelapp.com/  
+Empty Trash Menu in Lubuntu https://help.ubuntu.com/community/Lubuntu/Desktop/Empty-Trash-Menu  
 
