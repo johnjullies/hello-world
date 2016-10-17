@@ -63,4 +63,5 @@ Currated list of Big-O complexities http://bigocheatsheet.com/
 Design, prototyping, and collaboration https://marvelapp.com/  
 Empty Trash Menu in Lubuntu https://help.ubuntu.com/community/Lubuntu/Desktop/Empty-Trash-Menu  
 Learn Linux and cli http://linuxcommand.org/index.php  
+Machine Learning Primer https://danielmiessler.com/study/machine-learning  
 
