@@ -69,4 +69,5 @@ HTML Entities https://dev.w3.org/html5/html-author/charref
 Free Dev Books https://devfreebooks.github.io/  
 Track time GitHub http://githour.com/  
 World's top APIs https://rapidapi.com/  
-Rapid prototyping tool https://mockingbot.in/
+Rapid prototyping tool https://mockingbot.in/  
+Free cryptography course https://www.crypto101.io/
