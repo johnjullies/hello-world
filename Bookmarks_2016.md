@@ -71,4 +71,5 @@ Track time GitHub http://githour.com/
 World's top APIs https://rapidapi.com/  
 Rapid prototyping tool https://mockingbot.in/  
 Free cryptography course https://www.crypto101.io/  
-How to get freelance jobs as a developer https://news.ycombinator.com/item?id=13207268
+How to get freelance jobs as a developer https://news.ycombinator.com/item?id=13207268  
+IT Security Advisories https://legalhackers.com/
